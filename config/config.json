@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "fib11235813",
+    "database": "app-web",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": true
+  },
+  "test": {
+    "username": "postgres",
+    "password": "fib11235813",
+    "database": "app-web",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": true
+  },
+  "production": {
+    "username": "postgres",
+    "password": "fib11235813",
+    "database": "app-web",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": true
+  }
+}
